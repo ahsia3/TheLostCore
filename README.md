@@ -8,5 +8,5 @@ This game was established in Spring of 2018 for a class project in CSc 4821 Fund
 * Execute the *TheLostCore.exe* file
 
 ### Authors
-* **Anthony Hsia**
-* **Anthony Lieu**
+* **[Anthony Hsia]**(https://github.com/ahsia3)
+* **[Anthony Lieu]**(https://github.com/alieu526)
