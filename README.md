@@ -1,6 +1,8 @@
 # TheLostCore
 This game was established in Spring of 2018 for a class project in CSc 4821 Fundamentals of Game Design. 
+
 *Still in Development stages*
+
 ### Installing
 * Click the `Clone or download` dropdown
 * `Download ZIP`
