@@ -14,6 +14,4 @@ This game was established in Spring of 2018 for a class project in CSc 4821 Fund
 * [Unity](https://unity3d.com/) - Game Engine
 * [Piskel](https://www.piskelapp.com/) - For Sprite Animations
 
-### Authors
-* [Anthony Hsia](https://github.com/ahsia3)
-* [Anthony Lieu](https://github.com/alieu526)
+
