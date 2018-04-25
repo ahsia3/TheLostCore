@@ -16,3 +16,7 @@ This game was established in Spring of 2018 for a class project in CSc 4821 Fund
 
 ### Sprite Animations
 ![Violet](https://github.com/ahsia3/TheLostCore/blob/Pics/VampireGoodGif.gif)
+![Clara](https://github.com/ahsia3/TheLostCore/blob/Pics/ArcherGoodIdle.gif)
+![Felix](https://github.com/ahsia3/TheLostCore/blob/Pics/MageDudeGoodIdle.gif)
+![SlimeEnemy](https://github.com/ahsia3/TheLostCore/blob/Pics/SlimeEnemyIdle.gif)
+![BeachWolfEnemy](https://github.com/ahsia3/TheLostCore/blob/Pics/BeachWolfEnemyAttack.gif)
