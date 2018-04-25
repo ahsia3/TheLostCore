@@ -20,9 +20,3 @@ This game was established in Spring of 2018 for a class project in CSc 4821 Fund
 ![Felix](https://github.com/ahsia3/TheLostCore/blob/Pics/MageDudeGoodIdle.gif)
 ![SlimeEnemy](https://github.com/ahsia3/TheLostCore/blob/Pics/SlimeEnemyIdle.gif)
 ![BeachWolfEnemy](https://github.com/ahsia3/TheLostCore/blob/Pics/BeachWolfEnemyAttack.gif)
-
-<img src="https://github.com/ahsia3/TheLostCore/blob/Pics/VampireGoodGif.gif" alt="Violet" width="150" height="150">
-<img src="https://github.com/ahsia3/TheLostCore/blob/Pics/ArcherGoodIdle.gif" alt="Clara" width="150" height="150">
-<img src="https://github.com/ahsia3/TheLostCore/blob/Pics/MageDudeGoodIdle.gif" alt="Felix" width="150" height="150">
-<img src="https://github.com/ahsia3/TheLostCore/blob/Pics/SlimeEnemyIdle.gif" alt="SlimEnemy" width="150" height="150">
-<img src="https://github.com/ahsia3/TheLostCore/blob/Pics/BeachWolfEnemyAttack.gif" alt="BeachWolfEnemy" width="150" height="150">
